@@ -1,4 +1,4 @@
-package hospital;
+
 
 public class Patient implements Runnable {
     private final String name;
